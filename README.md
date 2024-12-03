@@ -34,3 +34,10 @@ When I'm not coding, you'll find me exploring tech blogs, contributing to my Eng
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="70px" src="./img/terminal-dark.svg" />
 <br>
+<hr>
+
+### 📊 Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mij-Do&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
