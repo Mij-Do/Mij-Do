@@ -54,6 +54,8 @@ To solidify my foundation, I took on challenging courses like CS50, which introd
 
 I’m also proud to have earned the AI Career Essentials Certificate from ALX, which opened my eyes to the transformative power of artificial intelligence as a tool for innovation and problem-solving in our daily lives and future careers.
 
+As a Linux enthusiast, I’ve been using Linux as my primary operating system and have found it to be an incredibly powerful, stable, and efficient platform for development and daily tasks. The flexibility and control it offers have significantly enhanced my workflow
+
 I strongly believe in continuous learning and hands-on practice, which is why I actively work on personal projects and contribute to my GitHub repositories. My ultimate goal is to create impactful, user-centric digital experiences.
 
 When I'm not coding, I enjoy sharing knowledge in my English study group, exploring tech trends, and occasionally indulging in my love for Marvel movies
