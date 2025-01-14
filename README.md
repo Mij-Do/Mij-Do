@@ -36,12 +36,6 @@ When I'm not coding, you'll find me exploring tech blogs, contributing to my Eng
 <br>
 <hr>
 
-### 📊 Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mij-Do&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 
 <details>
