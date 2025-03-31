@@ -32,7 +32,7 @@ When I'm not coding, you'll find me exploring tech blogs, contributing to my Eng
 <!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="85px" src="https://www.groovypost.com/wp-content/uploads/2023/05/open-terminal-ubuntu.png" />
+<img align="left" alt="Terminal" width="30px" src="https://www.groovypost.com/wp-content/uploads/2023/05/open-terminal-ubuntu.png" />
 <img align="left" alt="TS" width="40px" src="https://miro.medium.com/v2/resize:fit:1000/1*C24eNZfu0CT5fSTBt6IugA.png" style="padding-right:10px;" />
 <br>
 <hr>
