@@ -33,7 +33,7 @@ When I'm not coding, you'll find me exploring tech blogs, contributing to my Eng
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="85px" src="" />
-<img align="left" alt="TS" width="40px" src="[[https://en.vetores.org/wp-content/uploads/typescript.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png)](https://media.licdn.com/dms/image/D4D12AQGB2QPC4G45IQ/article-cover_image-shrink_720_1280/0/1707750533629?e=2147483647&v=beta&t=4gFOtQUWUWwqjrJz3fWVXbKxFCACSgiok9HZBdpptig)" style="padding-right:10px;" />
+<img align="left" alt="TS" width="40px" src="https://miro.medium.com/v2/resize:fit:1000/1*C24eNZfu0CT5fSTBt6IugA.png" style="padding-right:10px;" />
 <br>
 <hr>
 
