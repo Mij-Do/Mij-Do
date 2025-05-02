@@ -3,12 +3,13 @@
 **`Junior Front End Developer`**
 
 Hi there! 👋
+I'm Ahmed, a dedicated front-end developer with a strong passion for crafting clean, responsive, and user-centric web interfaces. My core stack includes HTML, CSS, JavaScript, and modern frameworks like Bootstrap.
 
-I'm Ahmed, a passionate front-end developer with a keen interest in creating clean, user-friendly interfaces and engaging web experiences. I specialize in HTML, CSS, JavaScript, and have experience working with frameworks like Bootstrap.
+Currently, I’m leveling up my skills with ReactJS, TypeScript, and diving deeper into Next.js and Node.js (NPM) to build scalable, high-performance web applications. I’m also expanding my knowledge in networking and exploring Linux to strengthen my development workflow and technical versatility.
 
-Currently, I'm enhancing my skills in ReactJS and TypeScript, aiming to build scalable and efficient web applications. I enjoy solving coding challenges, exploring new technologies, and continuously improving my craft.
+I'm passionate about solving real-world problems through code, improving user experiences, and staying up-to-date with the latest web technologies. I enjoy tackling coding challenges, contributing to open-source projects, and building polished, production-ready UI solutions.
 
-When I'm not coding, you'll find me exploring tech blogs, contributing to my English study group, or diving into Marvel movies!
+Beyond coding, I lead an English study group, explore tech blogs, and enjoy winding down with Marvel movies and Cairokee’s music. I'm also actively working on building my personal brand through educational content on platforms like TikTok and GitHub.
 <br>
 <!-- Social icons section -->
 <p align="center">
