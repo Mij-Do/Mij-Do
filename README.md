@@ -2,7 +2,7 @@
 
 **`Junior Front End Developer`**
 
-Hi there! 👋
+Hi there! 👋 <br />
 I'm Ahmed, a dedicated front-end developer with a strong passion for crafting clean, responsive, and user-centric web interfaces. My core stack includes HTML, CSS, JavaScript, and modern frameworks like Bootstrap.
 
 Currently, I’m leveling up my skills with ReactJS, TypeScript, and diving deeper into Next.js and Node.js (NPM) to build scalable, high-performance web applications. I’m also expanding my knowledge in networking and exploring Linux to strengthen my development workflow and technical versatility.
