@@ -41,19 +41,4 @@ Beyond coding, I lead an English study group, explore tech blogs, and enjoy wind
 
 #
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   Hello! I'm Ahmed, a dedicated front-end developer with a strong passion for coding and problem-solving. My journey in programming began with a curiosity to understand how websites work, which quickly turned into a deep commitment to mastering web development.
-
-I started with HTML and CSS, creating simple, responsive designs, and then expanded my skill set to include JavaScript, which I found to be both fun and powerful. Along the way, I explored frameworks like Bootstrap to enhance my projects.
-
-To solidify my foundation, I took on challenging courses like CS50, which introduced me to concepts beyond web development, and I'm currently diving deeper into ReactJS and TypeScript to build modern, dynamic web applications.
-
-I’m also proud to have earned the AI Career Essentials Certificate from ALX, which opened my eyes to the transformative power of artificial intelligence as a tool for innovation and problem-solving in our daily lives and future careers.
-
-As a Linux enthusiast, I’ve been using Linux as my primary operating system and have found it to be an incredibly powerful, stable, and efficient platform for development and daily tasks. The flexibility and control it offers have significantly enhanced my workflow
-
-I strongly believe in continuous learning and hands-on practice, which is why I actively work on personal projects and contribute to my GitHub repositories. My ultimate goal is to create impactful, user-centric digital experiences.
-
-When I'm not coding, I enjoy sharing knowledge in my English study group, exploring tech trends, and occasionally indulging in my love for Marvel movies
 
