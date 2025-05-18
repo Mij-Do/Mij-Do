@@ -3,13 +3,24 @@
 **`Junior Front End Developer`**
 
 Hi there! 👋 <br />
-I'm Ahmed, a dedicated front-end developer with a strong passion for crafting clean, responsive, and user-centric web interfaces. My core stack includes HTML, CSS, JavaScript, and modern frameworks like Bootstrap.
+Front-End Developer | Building Scalable and User-Friendly Web Experiences
 
-Currently, I’m leveling up my skills with ReactJS, TypeScript, and diving deeper into Next.js and Node.js (NPM) to build scalable, high-performance web applications. I’m also expanding my knowledge in networking and exploring Linux to strengthen my development workflow and technical versatility.
+I’m Ahmed Samir, a front-end developer and a final-year student at Minia University. My journey into software development started with curiosity and grew into a deep passion through self-learning and hands-on experience. Over time, I have developed strong technical skills and a problem-solving mindset that allows me to create clean, efficient, and scalable web applications.
 
-I'm passionate about solving real-world problems through code, improving user experiences, and staying up-to-date with the latest web technologies. I enjoy tackling coding challenges, contributing to open-source projects, and building polished, production-ready UI solutions.
+Technical Skills =>
 
-Beyond coding, I lead an English study group, explore tech blogs, and enjoy winding down with Marvel movies and Cairokee’s music. I'm also actively working on building my personal brand through educational content on platforms like TikTok and GitHub.
+-Languages & Core Technologies: HTML, CSS, JavaScript, TypeScript
+
+-Styling & UI Frameworks: Bootstrap, Tailwind CSS
+
+-Libraries & Tools: ReactJS
+
+-Focus Areas: Responsive Design, Performance Optimization, UI/UX
+
+
+I believe in continuous learning and improvement. Every project is an opportunity to refine my skills and push my abilities further. I am always open to new challenges and collaborations that drive innovation and creativity in web development.
+
+Let’s connect and build something great together.
 <br>
 <!-- Social icons section -->
 <p align="center">
